@@ -19,6 +19,8 @@ Metadata
 ## Acknowledgments
 - 351ELEC - https://github.com/351ELEC/351ELEC
 - Nunito fonts by Vernon Adams
+- Part of Carbon arts: fabricecaruso, tronkyfran 
+
 
 ## License
 This theme is being actively developed, a great deal of work has been put into the theme and art so please do not use the graphics I have created in other projects.
